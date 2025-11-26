@@ -1,3 +1,5 @@
+package jiun.ggidid.programmerscodingtest.lv1
+
 class Solution13 {
     fun solution(array: IntArray, commands: Array<IntArray>): IntArray {
         var answer = mutableListOf<Int>()
